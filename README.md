@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is **Jose Antonio** and I'm a **Computing & Engineering** student, from **Mexico**. 🇲🇽</p>
+<p align="left">My name is Jose Antonio and I'm a Computing & Engineering student, from Mexico. 🇲🇽</p>
 
 ###
 
@@ -10,13 +10,14 @@
 
 ###
 
-<p align="left">✨ Writing code and breaking systems since day one<br>📚 I'm currently learning **AI Engineering, Physics & Quantum Computing**<br>🎯 Goals: **Mastering System Automation & Neural Networks**<br>🎲 Fun fact: **I use the Feynman Technique to master complex topics (like explaining Quantum Physics to a rubber duck)**</p>
+<p align="left">✨ Writing code and breaking systems since day one<br>📚 I'm currently learning AI Engineering, Physics & Quantum Computing<br>🎯 Goals: Mastering System Automation & Neural Networks<br>🎲 Fun fact: I use the Feynman Technique to master complex topics (like explaining Quantum Physics to a rubber duck)</p>
 
 ###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=J0seAntonio&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=J0seAntonio&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=J0seAntonio&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
