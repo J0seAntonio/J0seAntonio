@@ -1,4 +1,48 @@
-![Estadísticas de J0seAntonio](https://github-readme-stats.vercel.app/api?username=J0seAntonio&show_icons=true&theme=radical&hide_border=true&count_private=true)
-![Habilidades de J0seAntonio](https://github-readme-stats.vercel.app/api/top-langs/?username=J0seAntonio&layout=compact&theme=radical&hide_border=true)
+<h1 align="left">Hey 👋 What's up?</h1>
 
-[![Mis Trofeos](https://github-profile-trophy.vercel.app/?username=J0seAntonio&theme=dark&column=3&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+###
+
+<p align="left">My name is **Jose Antonio** and I'm a **Computing & Engineering** student, from **Mexico**. 🇲🇽</p>
+
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">✨ Writing code and breaking systems since day one<br>📚 I'm currently learning **AI Engineering, Physics & Quantum Computing**<br>🎯 Goals: **Mastering System Automation & Neural Networks**<br>🎲 Fun fact: **I use the Feynman Technique to master complex topics (like explaining Quantum Physics to a rubber duck)**</p>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=J0seAntonio&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=J0seAntonio&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/J0seAntonio/J0seAntonio/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/J0seAntonio/J0seAntonio/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/J0seAntonio/J0seAntonio/output/pacman-contribution-graph.svg">
+</picture>
+
+###
